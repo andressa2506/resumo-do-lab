@@ -1,0 +1,56 @@
+
+
+# **🚀 Desafio Prático - Configurando uma Instância de Banco de Dados no Azure**
+
+Este repositório foi criado como parte do desafio proposto na plataforma **[DIO](https://www.dio.me/)**, com o objetivo de consolidar os conhecimentos adquiridos sobre o uso do **Microsoft Azure**, focando especialmente na criação e configuração de uma instância de banco de dados.
+
+---
+
+## **🧠 Objetivo do Desafio**
+
+> Brilhar construindo um perfil de destaque na DIO, explorando todos os conceitos abordados nas aulas e documentando a experiência para demonstrar a compreensão dos temas.
+
+---
+
+## **📌 O que foi feito**
+
+- Criação de uma instância de **SQL Database** no Microsoft Azure;
+- Navegação prática pela plataforma Azure;
+- Registro das etapas, comandos e boas práticas;
+- Organização dos aprendizados em um material de apoio contínuo.
+
+---
+
+## **🎯 Objetivos de Aprendizagem**
+
+Ao final deste desafio, fui capaz de:
+
+- ⚙️ Aplicar conceitos técnicos em um ambiente prático (Microsoft Azure);
+- 📝 Documentar processos de forma clara, estruturada e acessível;
+- 🌐 Utilizar o GitHub como repositório de conhecimento técnico.                    
+
+---
+
+## **🔧 Tecnologias Utilizadas**
+
+- ☁️ Microsoft Azure
+- 🛢️ SQL Database (Instância Gerenciada)
+- 🖥️ Git & GitHub
+- 🧱 Markdown para documentação
+
+---
+
+## **📚 Recursos Úteis**
+
+- [Criar Instância Gerenciada de SQL no Azure - Microsoft Learn](https://learn.microsoft.com/pt-br/azure/azure-sql/database/sql-database-managed-instance)
+- [GitHub Quick Start](https://github.com/git-guides/)
+- [Guia de Markdown no GitHub](https://guides.github.com/features/mastering-markdown/)
+- [GitBook: Formação GitHub Certification](https://app.gitbook.com/s/github)
+
+---
+
+
+Feito com dedicação por **Andressa**  
+*Desafio prático da DIO - Microsoft Azure*
+
+
